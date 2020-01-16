@@ -1,2 +1,2 @@
 # ocimido-scripts
-The scripts used for OcIMIDo project (tf-idf &amp; sentiment)
+scripts used for OcIMIDo project (tf-idf &amp; sentiment)
